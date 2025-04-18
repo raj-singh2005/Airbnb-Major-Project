@@ -1,0 +1,25 @@
+{
+  "name": "airbnb-major-project",
+  "version": "1.0.0",
+  "description": "replica of Airbnb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raj-singh2005/Airbnb-Major-Project.git"
+  },
+  "keywords": [],
+  "author": "Raj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raj-singh2005/Airbnb-Major-Project/issues"
+  },
+  "homepage": "https://github.com/raj-singh2005/Airbnb-Major-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
